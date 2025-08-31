@@ -1,0 +1,32 @@
+{
+  "title": "PyMoST: Python Morphological Sunspot Tracker",
+  "description": "Python Morphological Sunspot Tracker (PyMoST) detects and analyzes sunspots using mathematical morphology. This repository contains the FAIR-style pipeline, sample data, and reproducible environment files.",
+  "creators": [
+    {
+      "name": "Grangeiro, Dário",
+      "affiliation": "Universidade Federal do Cariri (UFCA)"
+      "orcid": "0009-0009-9193-5947"
+    }
+  ],
+  "keywords": [
+    "sunspots",
+    "solar physics",
+    "mathematical morphology",
+    "image processing",
+    "heliophysics",
+    "FAIR"
+  ],
+  "license": "cc-by-nc-4.0",
+  "access_right": "open",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "notes": "See README for usage and notes.",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/grangeirodario/pymost",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ]
+}
+
