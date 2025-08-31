@@ -1,13 +1,15 @@
 cff-version: 1.2.0
 title: "PyMoST: Python Morphological Sunspot Tracker"
-message: "If you use this software, please cite it as follows."
+message: "If you use this software, please cite it as below."
 authors:
   - family-names: "Grangeiro"
     given-names: "Dário"
-    affiliation: "Federal University of Cariri (UFCA)"
+    affiliation: "Universidade Federal do Cariri (UFCA)"
+    orcid: "0009-0009-9193-5947"   
 version: "1.0.0"
 date-released: "2025-08-23"
 url: "https://github.com/grangeirodario/pymost"
+doi: "https://doi.org/10.5281/zenodo.17012873"
 license: "CC-BY-NC-4.0"
 
 
