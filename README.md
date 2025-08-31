@@ -1,5 +1,8 @@
 # PyMoST – Python Morphological Sunspot Tracker
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17012872.svg)](https://doi.org/10.5281/zenodo.17012873)
+
+
 **Harnessing Python to unveil the secrets of the Sun: PyMoST tracks and analyzes sunspots across solar cycles.**
 
 We developed a tool called **Python Morphological Sunspot Tracker (PyMoST)**.
