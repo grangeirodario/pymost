@@ -136,7 +136,7 @@ python src/sunspots_pipeline.py --start 1998-01-01T12:00:00 --n-bins 9709 --outd
 
 Main parameters:
 
-* `--start` → start date (ISO, e.g., 1998-01-01T00:00:00)
+* `--start` → start date (ISO, e.g., 1998-01-01T12:00:00)
 * `--n-bins` → number of time bins
 * `--bin-size-days` → size of each bin in days (default = 1)
 * `--outdir` → output directory (default = outputs/)
