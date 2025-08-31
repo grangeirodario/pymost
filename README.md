@@ -132,8 +132,6 @@ pip install -r requirements.txt
 
 ```bash
 python src/sunspots_pipeline.py --start 1998-01-01T12:00:00 --n-bins 9709 --outdir outputs
-shutdown
-
 ```
 
 Main parameters:
