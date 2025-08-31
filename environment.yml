@@ -1,0 +1,17 @@
+name: pymost
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13.5
+  - numpy=2.3.2
+  - pandas=2.3.1
+  - astropy=7.1.0
+  - sunpy=7.0.1
+  - hvpy=1.1.0
+  - scipy=1.16.1
+  - scikit-image=0.25.2
+  - matplotlib=3.10.5
+  - opencv==4.12.0
+  - notebook
+      
+
